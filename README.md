@@ -10,4 +10,5 @@ Several modules are used in my project:<br>
 * matplotlib<br>
 * scipy<br>
 * os<br>
+
 Soon afterwards, I want to get the frequency of the words in one text, and then paint the high frequency words with wordcloud. This function is more useful and interesting.<br>
